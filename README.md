@@ -1,2 +1,2 @@
-# sbt_hello_world
-sbt hello world
+# sbt_akka_template
+abt akka template
